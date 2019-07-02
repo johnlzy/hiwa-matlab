@@ -6,11 +6,11 @@ This toolbox contains MATLAB code associated with the paper titled *Hierarchical
 ```
 @article{lee.19,
     author = {Lee, J. and Dabagia, M. and Dyer, E. and Rozell, C.},
-    title = {Hierarchical Optimal Transport for Multimodal Distribution Alignment},
-    year = 2019,
-    month = jun,
-    note = {Under review},
-    url = {http://arxiv.org/abs/1906.11768}
+    title  = {Hierarchical Optimal Transport for Multimodal Distribution Alignment},
+    year   = 2019,
+    month  = jun,
+    note   = {Under review},
+    url    = {http://arxiv.org/abs/1906.11768}
 }
 ```
 
