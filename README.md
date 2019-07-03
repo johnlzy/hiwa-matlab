@@ -10,7 +10,7 @@ The python version of this toolbox can be found [here](dummy).
     author = {Lee, J. and Dabagia, M. and Dyer, E. and Rozell, C.},
     title  = {Hierarchical Optimal Transport for Multimodal Distribution Alignment},
     year   = 2019,
-    month  = jun,
+    month  = may,
     note   = {Under review},
     url    = {http://arxiv.org/abs/1906.11768}
 }
