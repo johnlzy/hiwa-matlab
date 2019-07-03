@@ -1,6 +1,8 @@
 % demo.m
 % This program demonstrates Hierarchical Wasserstein Alignment (HiWA) in
 % action with synthetic data.
+% 
+% Copyright (c) 2019, John Lee
 
 clearvars;
 addpath 'toolbox\'

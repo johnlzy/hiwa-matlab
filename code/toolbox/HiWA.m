@@ -1,6 +1,10 @@
 function [Rg,P,diagnostic] = HiWA(A,X,B,Y,param)
 % Hierarchical Wasserstein Alignment (HiWA)
 % 
+% Hierarchical Optimal Transport for Multimodal Distribution Alignment
+% Lee, J. and Dabagia, M. and Dyer, E. and Rozell, C.
+% http://arxiv.org/abs/1906.11768
+% 
 % Datasets X and Y containing cluster stucture are aligned using a
 % hierarchical optimal transport approach.
 % 
@@ -31,7 +35,7 @@ function [Rg,P,diagnostic] = HiWA(A,X,B,Y,param)
 %   .Rg_norm        Residual norm (i.e., ||R_t - R_{t-1}||_F^2)
 %   .rMSE           Relative Mean Square Error (if Rgt is provided)
 % 
-% Copyright (c) 2019, John Lee, Max Dabagia, Eva L. Dyer, Christopher J. Rozell
+% Copyright (c) 2019, John Lee
 
 % Default parameters
 param.maxiter           = 200;
